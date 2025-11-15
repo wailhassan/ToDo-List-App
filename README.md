@@ -23,11 +23,11 @@ A simple, lightweight ToDo List web app built with plain HTML, CSS, and JavaScri
 - Click the delete icon or button to remove a task.
 - Click a task to toggle its completed state.
 
-**Author**: [WailHassan](https://github.com/wailhassan)
-
 **Project files**
 
 - `index.html` — main HTML file
 - `Style.css` — styles for the app
 - `JavaScript.js` — app logic and event handling
 - `images/` — project assets (includes the preview image `Preview.jpg`)
+
+**Author**: [WailHassan](https://github.com/wailhassan)
